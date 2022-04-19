@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @eliftargac
+- 👀 I’m interested in web development
+- 🌱 I’m currently learning HTML, CSS, Javascript
+- 💞️ I’m looking to collaborate on both open source projects and commercial freelance works.
+- 📫 Reach me via my [Linkedin profile](https://tr.linkedin.com/in/elif-topalo%C4%9Flu-targa%C3%A7-a13746135)
